@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c007cde.chunk.css",
+    "main.js": "/static/js/main.f52cd3c7.chunk.js",
+    "main.js.map": "/static/js/main.f52cd3c7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.d4c7af49.chunk.js": "/static/js/2.d4c7af49.chunk.js",
+    "static/js/2.d4c7af49.chunk.js.map": "/static/js/2.d4c7af49.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.622a7296604eba7c170ecf22dcbf98a6.js": "/precache-manifest.622a7296604eba7c170ecf22dcbf98a6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5c007cde.chunk.css.map": "/static/css/main.5c007cde.chunk.css.map",
+    "static/media/alex-pavlou-2UBwWeXlQKg-unsplash.jpg": "/static/media/alex-pavlou-2UBwWeXlQKg-unsplash.dd090925.jpg",
+    "static/media/alexander-possingham-CeWNEEsHPbA-unsplash.jpg": "/static/media/alexander-possingham-CeWNEEsHPbA-unsplash.d0df1592.jpg",
+    "static/media/anton-darius-thesollers-eeOplg75V6Q-unsplash.jpg": "/static/media/anton-darius-thesollers-eeOplg75V6Q-unsplash.3e5451ff.jpg",
+    "static/media/asique-alam-HaMYaR9J-Zg-unsplash.jpg": "/static/media/asique-alam-HaMYaR9J-Zg-unsplash.22f9a4af.jpg",
+    "static/media/cat-778315_1920.jpg": "/static/media/cat-778315_1920.74181515.jpg"
+  }
+}
